@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99067eaf-6c09-43c5-b088-2239e54f51bb/deploy-status)](https://app.netlify.com/sites/jovial-curie-4a1da4/deploys)
 
 This is a quickstart repo for Orchid to get you up and running as soon as possible. The only system dependency 
 necessary to run Orchid is a valid Java 8 JDK and git. 
