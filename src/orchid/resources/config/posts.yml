@@ -1,15 +1,15 @@
-permalink: ':category/:year/:monthName/:slug'
+permalink: ':category/:slug'
 categories:
-  - key: 'category1'
-    title: 'Category 1'
-  - key: 'category2'
-    title: 'Category 2'
+  - key: 'concepts'
+    title: 'Concepts clés'
+  - key: 'questions-existentielles'
+    title: 'Questions existentielles'
 authors:
-  - name: 'Author Two'
-    avatar: 'assets/images/avatar.jpg'
-    email: 'email@domain.tld'
+  - name: 'Jean-Michel Fayard'
+    avatar: 'assets/images/profile-picture-jmfayard.jpg'
+    email: 'jmfayard+apresladepression@gmail.com'
 postPages:
-  author: 'Author One'
+  author: 'Jean-Michel Fayard'
   layout: single
   components:
     - type: pageContent

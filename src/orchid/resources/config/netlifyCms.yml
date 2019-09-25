@@ -1,5 +1,5 @@
 config:
   backend:
     name: github
-    repo: 'user/repo'
+    repo: 'jmfayard/apresladepression'
     branch: master
