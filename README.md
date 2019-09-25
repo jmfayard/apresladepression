@@ -1,29 +1,31 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/99067eaf-6c09-43c5-b088-2239e54f51bb/deploy-status)](https://app.netlify.com/sites/jovial-curie-4a1da4/deploys)
+# Tables des matières
 
-This is a quickstart repo for Orchid to get you up and running as soon as possible. The only system dependency 
-necessary to run Orchid is a valid Java 8 JDK and git. 
+## Les concepts pour comprendre
 
-```bash
-git clone https://github.com/JavaEden/OrchidStarter.git
-cd OrchidStarter
-./gradlew orchidServe
+- Le secret que nous avons tous en commun
+- Rien ne fonctionne, tout essayer
+- Ruminations mono-maniaques
+- Besoin de connexion sociale, envie de fuir
+- O temps, suspends ton vol
+- Quand plus rien n’a de saveur
+- Tous différents, beaucoup en commun
+- Anti-dépresseurs, chimiques et non chimiques
 
-# View your generated site at http://localhost:8080/
-```
+## Guide de survie
 
-Alternatively, you can click the button below to automatically clone this repo and deploy it to Netlify. This starter 
-repo includes the [Netlify CMS](https://www.netlifycms.org/), so you will be up and publishing content as soon as 
-possible. You will need to set the Github user/repo in `src/orchid/resources/config/netlifyCms.yml`, but the rest of the 
-CMS config is automatically generated based on your current Orchid plugins and configurations.  
+- Comment dormir?
+- Le stress permanent, ennemi numéro 1
+- Vertus de l’écriture
+- La méditation, pourquoi? comment?
+- Exit, Voice and Loyalty
+- Ralentir pour éviter la surchauffe
+- Addictions et reconnexions
+- Reconnexion avec la nature
+- Faire la paix avec ses émotions
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JavaEden/OrchidStarter)
+## Questions existentielles
 
-### Example Orchid Sites
-
-* [Official Orchid documentation](https://orchid.netlify.com/)
-* [caseyjbrooks.com](https://www.caseyjbrooks.com/)
-* [pebbletemplates.io](https://pebbletemplates.io/)
-* [strikt.io](https://strikt.io/)
-* [Krow documentation](https://copper-leaf.github.io/krow/)
-* [Trellis documentation](https://copper-leaf.github.io/trellis/)
-* [Clog documentation](https://javaeden.github.io/Clog/)
+- Chers amis, ce que j’aimerais pouvoir vous dire
+- Pourquoi cette souffrance?
+- Le seul problème philosophique vraiment sérieux
+- Ce n'est pas un signe de bonne santé mentale que d'être bien adapté à une société malade
