@@ -1,8 +1,8 @@
 site:
   about:
     siteName: 'Après la dépression'
-    subtitle: 'Livre en cours d’écriture'
-    siteDescription: 'La dépression ne reviendra plus jamais sans que je n y suis préparé'
+    subtitle: 'Mettre à profit la période après la dépression pour ne pas y retomber'
+    siteDescription: 'Livre en cours d''écriture'
     avatar: '/assets/media/logo.jpg'
 
 theme:

@@ -1,4 +1,4 @@
-rootProject.name = "OrchidStarter"
+rootProject.name = "Après la dépression"
 
 pluginManagement {
     repositories {
