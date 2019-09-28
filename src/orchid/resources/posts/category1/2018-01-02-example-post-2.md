@@ -75,4 +75,4 @@ Concrètement, voici les techniques qui ont fait leurs preuves pour moi:
 - **Méditer**. L'effet de la méditation dans ces moments de surchauffe est chez moi spectaculaire! Et cela a du sens aussi. Cela permet de sortir de l'obsession faire-faire-faire-faire, et pendant une dizaine de minutes de JUSTE ÊTRE.
 - **Se concentrer sur l'essentiel**. Respirer. Observer. Prendre le temps de manger. Dormir. Les notifications du smartphone peuvent attendre.
 - Faire une liste des **projets à ne pas faire maintenant**. Salutaire exercice qui permet de se recentrer sur ses priorités et est une antidote à la dispersion.
-- **Remettre les choses au lendemain**. Qui a dit que la procrastination était toujours  néfaste? Dans cet état, elle est la soeur de la sagesse et de la sérénité!
+- **Remettre les choses au lendemain**. Qui a dit que la procrastination était toujours  néfaste? Dans cet état, elle est la soeur de la sagesse et de la sérénité!kjn.

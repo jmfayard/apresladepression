@@ -1,9 +1,4 @@
----
-title: Besoin de connexion sociale -Envie de fuire.
-featuredImage: assets/media/pic03.jpg
-tags:
-    - three
----
+
 
 La dépression me pousse à fuire le contact social.
 
