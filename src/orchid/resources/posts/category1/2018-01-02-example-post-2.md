@@ -1,8 +1,78 @@
 ---
-title: Example Post Category 1
+title: Ralentir pour éviter la surchauffe
 featuredImage: assets/media/pic02.jpg
 tags:
     - two
 ---
 
-Example Post in Category 1
+En 2010, j'ai été diagnostiqué comme "bi-polaire" plutôt que "dépressif".
+
+## Quelle différence?
+
+Dans les troubles biplaires, la personne oscille entre des phases dépressives
+et des phases "maniaques". La réalité qu'il décrit est la suivante:
+un trop-plein d'énergie, de vitalité, de projects, l'esprit
+qui va à 200 à l'heure, des projets dans tous les domaines,
+une énergie qui épuise les proches, une impulsivité qui pousse à faire des achats compulsifs, ...
+
+Ces deux phases sont liées expliquent les psychiatres.
+
+Pendant la phase maniaque, on s'épuise à vouloir trop en faire. Quand on arrive à ses limites,
+ou quand on heurte le plafond des réalités extérieures, s'ensuit un épuisement
+et un désanchtement, un coup d'arrêt brutal qui démarre un épisode dépressif.
+
+Quand l'épisode dépressif finit par se terminer, porté par l'euphorie de la guérison,
+on peut se laisser déborder et enclencher une nouvelle phase "maniaque", préparant la prochaine
+oscillation.
+
+Le but serait donc ici de "stabiliser l'humeur", y compris avec des médicaments
+comme la Dépakote ou le Lithium.
+
+## Des réalités bien diverses suivant les personnes
+
+Sur le papier, la théorie se tient. Et pourtant elle m'a toujours laissé
+un goût amer dans la bouche. Déjà le mot "maniaque" est horrible. Passons.
+
+En faisant une thérapie de groupe, je me suis rendu compte que nous avions chacun
+une réalité au quotidien bien différente. Derrière l'idée générale "on oscille entre Charybde et Scylla",
+certaines personnes sont presque toujours du côté de Charybde, d'autres presques toujours du côté de Scylla,
+d'autres encore oscillent de manière rapide et brusque violente, pouvant passer de la dépression à la manie
+à la dépression en une seule journée.
+
+Pour ma part, j'ai toujours été à 95% dépressif, et étant donné que cela durait une éternité
+à chaque fois, je n'avais pas tellement l'impression d'osciller.
+
+Quoi qu'il en soit, j'ai effectivement connu certain courts épisodes de surchauffe.
+Quand je suis sorti du brouillard, que l'euphorie de la guérison me porte,
+que certains succès initiaux m'ont redonné gôut à l'action et que je veux sans cesse en faire plus.
+
+La bonne nouvelle, c'est que pour moi du moins, ces moments de surchauffes sont
+
+- relativement faciles à identifier
+- relativement faciles à gérer
+
+## Les symptômes
+
+Les symptômes sont
+
+- une dispersion dans une multitude d'initiatives, de projets sympa mais pas vraiment nécessaires
+- une chaleur qui s'empare de mon corps tout entier. Mon cerveau bout, presque littérelement
+- mes proches, épuisés, qui me font des remarques à prendre au sérieux
+
+Une différence fondamentale avec la dépression est que pour moi, ces syptômes ne sont pas *douloureux*.
+Au contraire, il est facile de les confondre avec un sentiment d'euphorie.
+Néanmoins ils convient de faire attention. Comment réagir?
+
+## Les solutions
+
+La réponse tient en un mot:
+
+  RALENTIR
+  
+Concrètement, voici les techniques qui ont fait leurs preuves pour moi:
+
+- **Sortir** prendre l'air, aller marcher
+- **Méditer**. L'effet de la méditation dans ces moments de surchauffe est chez moi spectaculaire! Et cela a du sens aussi. Cela permet de sortir de l'obsession faire-faire-faire-faire, et pendant une dizaine de minutes de JUSTE ÊTRE.
+- **Se concentrer sur l'essentiel**. Respirer. Observer. Prendre le temps de manger. Dormir. Les notifications du smartphone peuvent attendre.
+- Faire une liste des **projets à ne pas faire maintenant**. Salutaire exercice qui permet de se recentrer sur ses priorités et est une antidote à la dispersion.
+- **Remettre les choses au lendemain**. Qui a dit que la procrastination était toujours  néfaste? Dans cet état, elle est la soeur de la sagesse et de la sérénité!
