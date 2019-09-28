@@ -1,0 +1,22 @@
+---
+title: ô temps suspends ton vol!
+featuredImage: assets/media/pic03.jpg
+tags:
+    - three
+---
+
+Le poète rêvait de ce que les plus belles heures de nos vies puissent sembler durer une éternité.
+
+La Nature a du mal écouter, car c'est bien aux pires heures de nos vie qu'elle a réservé ce privilège.
+
+Au milieu de la dépression, le temps semble s'arrêter.
+
+Une journée semble durer une éternité.
+
+C'est sans doute dû à ce que la dépression est l'incapacité à se projet dans un futur serein.
+
+Plongé dans cette incertitude radicale, je n'ai d'autre choix que de vivre au jour le jour.
+
+Savoir ce que je faire aux prochaines vacances? Impossible.
+
+Penser même à des projets pour le week-end m'est déjà très difficile.
