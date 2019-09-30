@@ -12,6 +12,7 @@ un maximum de stress chez vous comme chez l'autre, comment pourriez-vous vous y 
 
 Voilà quelques idées efficaces auxquelles vous pourriez avoir recours si votre but était de générer un maximum de stress:
 
+- Vous pourriez commencer toutes vos phrases par "Oui, mais..."
 - Vous pourriez parler beaucoup.
 - Vous pourriez hausser la voix.
 - Vous pourriez focaliser votre attention sur quelle réplique bien sentie vous allez lui décrocher pendant qu'il parle.
