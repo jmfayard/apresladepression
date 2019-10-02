@@ -1,2 +1,8 @@
 defaultConfig:
+  createPdf: true
   title: 'Table des matières'
+#  sections:
+#    - 'concepts'
+#    - 'guide-pratique'
+#    - 'questions-existentielles'
+#

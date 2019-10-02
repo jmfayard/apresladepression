@@ -44,7 +44,7 @@ theme:
 #      template:
 #        - 'includes/postPreview_list'
   extraCss:
-    #- 'assets/css/asciidoctor.css'
+    - 'assets/css/extraCss.scss'
     - 'assets/css/pygments.scss'
   extraJs:
     - 'assets/js/extraJs.js'
