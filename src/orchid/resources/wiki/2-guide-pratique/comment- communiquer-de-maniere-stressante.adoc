@@ -1,58 +1,62 @@
----
+—
 title: Comment générer un maximum de stress par sa communication?
 featuredImage: assets/media/pic03.jpg
 tags:
-    - three
----
 
-Je vous propose une expérience de pensée. Si votre *but* était de générer par votre communication
+----
+- three
+----
+
+'''
+
+Je vous propose une expérience de pensée. Si votre _but_ était de générer par votre communication
 un maximum de stress chez vous comme chez l'autre, comment pourriez-vous vous y prendre?
 
-# Astuces pour engendre un maximum de stress
+= Astuces pour engendre un maximum de stress
 
 Voilà quelques idées efficaces auxquelles vous pourriez avoir recours si votre but était de générer un maximum de stress:
 
-- Vous pourriez commencer toutes vos phrases par "Oui, mais..."
-- Vous pourriez parler beaucoup.
-- Vous pourriez hausser la voix.
-- Vous pourriez focaliser votre attention sur quelle réplique bien sentie vous allez lui décrocher pendant qu'il parle.
-- Vous pourriez vous réfugier dans des généralités.
-- Vous pourriez proférer des menaces, comme dire à votre enfant: "Maman ne va plus t'aimer si tu continues à ...."
-- Vous pourriez généraliser en recourant aux mots magiques: "jamais", "toujours", "rien", "tout".
-- Vous pourriez le mettre devant un choix binaire, Charybde ou Scylla, se décider maintenant ou jamais, la France tu l'aimes ou tu la quittes.
-- Vous pourriez recourir à l'ironie, et si jamais il s'offusque, répliquer: "Roh mais vraiment, t'as pas d'humour!"
-- Vous pourriez présenter une fin de non-recevoir: "Ah mais moi je suis comme ca, et vous n'allez pas me changer, donc vivez avec!".
-- Vous pourriez lui faire comprendre que c'est lui le problème. "Roh, mais l'autre collègue, elle, ne s'est jamais plaint, qu'est-ce que tu es sensible!".
-- Vous pourriez rompre la conversation en partant sans vous expliquer.
+* Vous pourriez commencer toutes vos phrases par "Oui, mais…"
+* Vous pourriez parler beaucoup.
+* Vous pourriez hausser la voix.
+* Vous pourriez focaliser votre attention sur quelle réplique bien sentie vous allez lui décrocher pendant qu'il parle.
+* Vous pourriez vous réfugier dans des généralités.
+* Vous pourriez proférer des menaces, comme dire à votre enfant: "Maman ne va plus t'aimer si tu continues à …."
+* Vous pourriez généraliser en recourant aux mots magiques: "jamais", "toujours", "rien", "tout".
+* Vous pourriez le mettre devant un choix binaire, Charybde ou Scylla, se décider maintenant ou jamais, la France tu l'aimes ou tu la quittes.
+* Vous pourriez recourir à l'ironie, et si jamais il s'offusque, répliquer: "Roh mais vraiment, t'as pas d'humour!"
+* Vous pourriez présenter une fin de non-recevoir: "Ah mais moi je suis comme ca, et vous n'allez pas me changer, donc vivez avec!".
+* Vous pourriez lui faire comprendre que c'est lui le problème. "Roh, mais l'autre collègue, elle, ne s'est jamais plaint, qu'est-ce que tu es sensible!".
+* Vous pourriez rompre la conversation en partant sans vous expliquer.
 
-Dans la vraie vie, on a rarement comme *but* d'engendrer un maximum de stress, mais est-ce qu'on agit de manière vraiment différente la plupart du temps?
+Dans la vraie vie, on a rarement comme _but_ d'engendrer un maximum de stress, mais est-ce qu'on agit de manière vraiment différente la plupart du temps?
 
-# Que nous apprend cette expérience de pensée?
+= Que nous apprend cette expérience de pensée?
 
 Si maintenant on se met dans la peau de l'interlocuteur d'une personne qui recourerait à ces trucs et astuces pour avoir toujours raison,
 on peut comprendre de manière assez clair en quoi le dialogue de sourds ainsi engendŕe est extrêmement frustrant.
 
 On a le sentiment bien justifié:
 
-- de ne pas pouvoir en placer une
-- qu'on essaye de vous intimider
-- de ne pas être *écouté*
-- de ne pas être traité avec respect
-- que les points valables de nos arguments ne sont pas pris en compte
-- d'être englué dans une non-conversation stérile où chacun campe sur ses positions
-- d'avoir un interlocuteur qui ne veut pas changer et prétend que c'est parce qu'il ne le *peut* pas
-- qu'on cherche à vous expliquer que votre personnalité est une erreur. Oui je suis sensible, et alors?
-- d'être placé devant une fausse alternative
-- qu'on cherche à appuyer sur tous vos points les plus sensibles pour vous énerver
-- que le dialogue a été rompu sans explications et sans vous avertir de à quel moment il sera possible de le renouer. Débrouillez vous.
+* de ne pas pouvoir en placer une
+* qu'on essaye de vous intimider
+* de ne pas être _écouté_
+* de ne pas être traité avec respect
+* que les points valables de nos arguments ne sont pas pris en compte
+* d'être englué dans une non-conversation stérile où chacun campe sur ses positions
+* d'avoir un interlocuteur qui ne veut pas changer et prétend que c'est parce qu'il ne le _peut_ pas
+* qu'on cherche à vous expliquer que votre personnalité est une erreur. Oui je suis sensible, et alors?
+* d'être placé devant une fausse alternative
+* qu'on cherche à appuyer sur tous vos points les plus sensibles pour vous énerver
+* que le dialogue a été rompu sans explications et sans vous avertir de à quel moment il sera possible de le renouer. Débrouillez vous.
 
-Et pourtant c'était rarement l'*intention* de la personne en face. Lui aussi ne désirait au départ
+Et pourtant c'était rarement l'_intention_ de la personne en face. Lui aussi ne désirait au départ
 que des choses simples, il a commencé la discussion avec des préoccupations qu'il n'a pas exprimé clairement,
 une friture sur la ligne s'est installée, lui non plus n'a pas eu l'impression d'être écouté. Et puis ce fut l'escalade.
 
 Comment éviter la répétition de ces dialogues de sourds?
 
-# La "communication non-violente"
+= La "communication non-violente"
 
 La communication non-violente est une manière de voir le monde
 et un ensemble d'idées pratiques pour sortir du cercle infernal de ces dialogues de sourds.
@@ -62,17 +66,17 @@ avec les personnes qui s'y prêtent, dans les contextes qui s'y prêtent.
 Nul besoin - ce serait épuisant - de communiquer tout le temps de manière "non-violente" avec n'importe qui.
 
 Le terme de "non-violence" n'est pas un reproche à asséner à l'autre ("tu es violent!"),
-mais une invitation à s'inspirer de la "non-violence" de Gandhi dans sa *propre* communication.
+mais une invitation à s'inspirer de la "non-violence" de Gandhi dans sa _propre_ communication.
 Il a du sens pour les initiés mais il prend souvent les non-convaincus à rebrousse-poil.
 
 C'est pour cela que j'ai démarré l'article sous l'angle du Stress.
-On a rarement *conscience* et presque jamais l'*intention* de communiquer de manière *violente*,
+On a rarement _conscience_ et presque jamais l'_intention_ de communiquer de manière _violente_,
 mais on peut bien plus facilement se mettre d'accord sur le constat que notre manière habituelle
-de communiquer est très *stressante*, et à avouer que les conflits qui durent sont rarement
-dus à l'erreur d'*une* *seule* des deux parties. Et une fois qu'on a tous les deux consciences
+de communiquer est très _stressante_, et à avouer que les conflits qui durent sont rarement
+dus à l'erreur d'_une_ _seule_ des deux parties. Et une fois qu'on a tous les deux consciences
 du problème, se pardonner d'être un humain avec des failles, et s'attacher à trouver ensemble des solutions.
 
-# D'où vient le dialogue de sourds?
+= D'où vient le dialogue de sourds?
 
 La "communication non-violente" enseigne que toute bonne communication se fait sur plusieurs niveaux en même temps:
 il y a les faits, il y a les pensées, il y a les émotions, il y a les besoins derrière.
@@ -84,23 +88,23 @@ quels sont les besoins sous-jacents derrière.
 
 Certes il peut y avoir tout cela seriez vous tenter de répondre.
 
-Mais le point crucial c'est qu'il faut savoir *discerner* et *distinguer* tout cela!
+Mais le point crucial c'est qu'il faut savoir _discerner_ et _distinguer_ tout cela!
 
 Et pour cela, il faut avoir le courage de creuser.
 
-- Prendre conscience qu'on a un dialogue de sourds où chacun campe sur ses positions
-- Re-préciser les faits pour que le contexte soit clair
-- Mais pourquoi ce désaccord? Creuser. Quelles sont les pensées sous-jacentes qui ne sont pas clairement exprimées?
-- Ah ah. Je n'avais pas pensé à ca. Creuser davantage. D'où viennent ces idées? Quelles sont les émotions qui sont derrière?
-- Ne jamais nier les émotions de l'autre. Les accepter. Et creuser encore davantage pour savoir, d'où viennent ces émotions?
-- Et là enfin, on arrive à la substantifique moelle: les besoins.
+* Prendre conscience qu'on a un dialogue de sourds où chacun campe sur ses positions
+* Re-préciser les faits pour que le contexte soit clair
+* Mais pourquoi ce désaccord? Creuser. Quelles sont les pensées sous-jacentes qui ne sont pas clairement exprimées?
+* Ah ah. Je n'avais pas pensé à ca. Creuser davantage. D'où viennent ces idées? Quelles sont les émotions qui sont derrière?
+* Ne jamais nier les émotions de l'autre. Les accepter. Et creuser encore davantage pour savoir, d'où viennent ces émotions?
+* Et là enfin, on arrive à la substantifique moelle: les besoins.
 
 Comparons cela avec l'approche habituelle qu'ont la plupart d'entre nous
 
-- Je voulais te dire que cela ne me dérange que...
-- Ah mais c'est rien cela, je te l'ai déjà dit, j'ai la solution!
+* Je voulais te dire que cela ne me dérange que…
+* Ah mais c'est rien cela, je te l'ai déjà dit, j'ai la solution!
 
-C'est plus court... au départ. Mais quand un dialogue de sourds s'installe, combien de temps cela dure? Et n'est-ce pas terriblement frustrant?
+C'est plus court… au départ. Mais quand un dialogue de sourds s'installe, combien de temps cela dure? Et n'est-ce pas terriblement frustrant?
 
 L'un des points qui m'a fait le plus profondément réfléchir, est cette notion que la plupart de nos dialogues de sourds
 sont dus à cette confusion entre stratégies et besoins, c'est à dire entre solutions et problème.
@@ -113,7 +117,7 @@ Mais le plus souvent ce n'est pas le cas, et c'est notre précipitation même à
 Personne n'est intéressé par une solution à un problème dont il n'a pas vraiment, profondément pris conscience.
 Et une fois qu'on a vraiment, profondément pris conscience du problème, les solutions sont superflues car elles s'imsposent d'elles même.
 
-# Un outil de communication, pas un dogme
+= Un outil de communication, pas un dogme
 
 J'ai été initié à la communication non-violente par ma mère, qui s'y intéresse depuis des années.
 Récemment, elle m'a proposé de m'inscrire à un stage de sensibilisation.
@@ -131,15 +135,19 @@ mais a bien insisté qu'elle-même n'y recourait que lorsque l'interlocuteur et 
 
 Et elle n'hésitait pas à citer des anecdotes de la vie quotidienne où elle allait au contraire à l'abordage
 plutôt que de se laisser marcher sur les pieds. "Pas plus tard qu'hier", nous dit elle en substance,
-"j'ai eu affaire à un rustre à une station-service qui m'a traité comme du poisson pourri
+&quot;j'ai eu affaire à un rustre à une station-service qui m'a traité comme du poisson pourri
 parce-que je n'avais pas garé ma voiture à son goût. Dans une condition comme celle-ci, je n'ai
 pas tellement envie d'être non-violente. J'ai pris mon courage à deux mains, et je lui ai dit:
 
-> Bonjour cher monsieur. Il est possible que vous ayez raison ou que j'ai raison sur
-> la manière dont il convient de ranger ma bagnole. Par contre, ca ne m'intéresse pas
-> que nous échangions nos justifications.
-> Je voulais simplement vous dire que dans tous les cas, je n'apprécie pas qu'on me parle de cette manière.
-> Oui, j'attends à ce qu'on me parle avec respect.
+____
+
+Bonjour cher monsieur. Il est possible que vous ayez raison ou que j'ai raison sur
+la manière dont il convient de ranger ma bagnole. Par contre, ca ne m'intéresse pas
+que nous échangions nos justifications.
+Je voulais simplement vous dire que dans tous les cas, je n'apprécie pas qu'on me parle de cette manière.
+Oui, j'attends à ce qu'on me parle avec respect.
+
+____
 
 Simple, clair, et adapté à la situation.
 
@@ -147,4 +155,4 @@ Que croyez-vous qu'il s'est passé?
 
 Et bien le rustre a pris conscience de son erreur et s'est excusé de ce moment d'égarement.
 
-Pas si rustre finalement.  Savoir reconnaître ses erreurs, c'est la marque des grands.
+Pas si rustre finalement. Savoir reconnaître ses erreurs, c'est la marque des grands.

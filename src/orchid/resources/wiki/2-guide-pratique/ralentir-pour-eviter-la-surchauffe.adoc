@@ -1,19 +1,23 @@
----
+—
 title: Ralentir pour éviter la surchauffe
 featuredImage: assets/media/pic02.jpg
 tags:
-    - two
----
+
+----
+- two
+----
+
+'''
 
 En 2010, j'ai été diagnostiqué comme "bi-polaire" plutôt que "dépressif".
 
-## Quelle différence?
+== Quelle différence?
 
 Dans les troubles biplaires, la personne oscille entre des phases dépressives
 et des phases "maniaques". La réalité qu'il décrit est la suivante:
 un trop-plein d'énergie, de vitalité, de projects, l'esprit
 qui va à 200 à l'heure, des projets dans tous les domaines,
-une énergie qui épuise les proches, une impulsivité qui pousse à faire des achats compulsifs, ...
+une énergie qui épuise les proches, une impulsivité qui pousse à faire des achats compulsifs, …
 
 Ces deux phases sont liées expliquent les psychiatres.
 
@@ -28,7 +32,7 @@ oscillation.
 Le but serait donc ici de "stabiliser l'humeur", y compris avec des médicaments
 comme la Dépakote ou le Lithium.
 
-## Des réalités bien diverses suivant les personnes
+== Des réalités bien diverses suivant les personnes
 
 Sur le papier, la théorie se tient. Et pourtant elle m'a toujours laissé
 un goût amer dans la bouche. Déjà le mot "maniaque" est horrible. Passons.
@@ -48,31 +52,31 @@ que certains succès initiaux m'ont redonné gôut à l'action et que je veux sa
 
 La bonne nouvelle, c'est que pour moi du moins, ces moments de surchauffes sont
 
-- relativement faciles à identifier
-- relativement faciles à gérer
+* relativement faciles à identifier
+* relativement faciles à gérer
 
-## Les symptômes
+== Les symptômes
 
 Les symptômes sont
 
-- une dispersion dans une multitude d'initiatives, de projets sympa mais pas vraiment nécessaires
-- une chaleur qui s'empare de mon corps tout entier. Mon cerveau bout, presque littérelement
-- mes proches, épuisés, qui me font des remarques à prendre au sérieux
+* une dispersion dans une multitude d'initiatives, de projets sympa mais pas vraiment nécessaires
+* une chaleur qui s'empare de mon corps tout entier. Mon cerveau bout, presque littérelement
+* mes proches, épuisés, qui me font des remarques à prendre au sérieux
 
-Une différence fondamentale avec la dépression est que pour moi, ces syptômes ne sont pas *douloureux*.
+Une différence fondamentale avec la dépression est que pour moi, ces syptômes ne sont pas _douloureux_.
 Au contraire, il est facile de les confondre avec un sentiment d'euphorie.
 Néanmoins ils convient de faire attention. Comment réagir?
 
-## Les solutions
+== Les solutions
 
 La réponse tient en un mot:
 
-  RALENTIR
-  
+RALENTIR
+
 Concrètement, voici les techniques qui ont fait leurs preuves pour moi:
 
-- **Sortir** prendre l'air, aller marcher
-- **Méditer**. L'effet de la méditation dans ces moments de surchauffe est chez moi spectaculaire! Et cela a du sens aussi. Cela permet de sortir de l'obsession faire-faire-faire-faire, et pendant une dizaine de minutes de JUSTE ÊTRE.
-- **Se concentrer sur l'essentiel**. Respirer. Observer. Prendre le temps de manger. Dormir. Les notifications du smartphone peuvent attendre.
-- Faire une liste des **projets à ne pas faire maintenant**. Salutaire exercice qui permet de se recentrer sur ses priorités et est une antidote à la dispersion.
-- **Remettre les choses au lendemain**. Qui a dit que la procrastination était toujours  néfaste? Dans cet état, elle est la soeur de la sagesse et de la sérénité!kjn.
+* *Sortir* prendre l'air, aller marcher
+* *Méditer*. L'effet de la méditation dans ces moments de surchauffe est chez moi spectaculaire! Et cela a du sens aussi. Cela permet de sortir de l'obsession faire-faire-faire-faire, et pendant une dizaine de minutes de JUSTE ÊTRE.
+* *Se concentrer sur l'essentiel*. Respirer. Observer. Prendre le temps de manger. Dormir. Les notifications du smartphone peuvent attendre.
+* Faire une liste des *projets à ne pas faire maintenant*. Salutaire exercice qui permet de se recentrer sur ses priorités et est une antidote à la dispersion.
+* *Remettre les choses au lendemain*. Qui a dit que la procrastination était toujours néfaste? Dans cet état, elle est la soeur de la sagesse et de la sérénité!kjn.
