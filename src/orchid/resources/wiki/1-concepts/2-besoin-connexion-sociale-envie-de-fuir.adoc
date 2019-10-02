@@ -1,6 +1,5 @@
 +++
-title= Besoin de connexion sociale, envie de fuir
-featuredImage= assets/media/pic03.jpg
+title = 'Besoin de connexion sociale, envie de fuir'
 +++
 
 La dépression me pousse à fuire le contact social.
