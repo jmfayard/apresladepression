@@ -1,4 +1,5 @@
 ---
+title: Pourquoi ce livre?
 layout: index
 components:
   - type: pageContent
@@ -34,3 +35,11 @@ Mais plus jamais cette absence de préparation, ce désarroi, cette absence de r
 Après la dépression est cette période où les souvenirs sont frais et les idées sont claires. Je me suis juré de la mettre à profit pour mettre noir sur blanc les leçons que mes crises m’ont enseignées.
 
 Qu’à mon futur moi-même, perdu dans la nuit glaciale, il serve du lueur d’espoir, de boussole et d’amour.
+
+
+
+## Chapitres
+
+{% for page in findAll(collectionType='wiki') %}
+- [{{page.title}}]({{page.link}})
+{% endfor %}

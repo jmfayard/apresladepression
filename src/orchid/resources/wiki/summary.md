@@ -1,3 +1,11 @@
+---
+expiryDate: 2019-10-02T14:46:25.970Z
+lastModifiedDate: 2019-10-02T14:46:25.997Z
+menu:
+  - type: pageSiblings
+  - type: pageSubtree
+publishDate: 2019-10-02T14:46:26.017Z
+---
 TABLES DES MATIÈRES
 
 ## LES CONCEPTS POUR COMPRENDRE
