@@ -1,13 +1,6 @@
-—
-title: ô temps suspends ton vol!
-featuredImage: assets/media/pic03.jpg
-tags:
-
-----
-- three
-----
-
-'''
++++
+title = 'Ô temps suspends ton vol!'
++++
 
 Le poète rêvait de ce que les plus belles heures de nos vies puissent sembler durer une éternité.
 

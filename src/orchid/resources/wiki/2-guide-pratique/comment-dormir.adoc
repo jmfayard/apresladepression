@@ -1,13 +1,7 @@
-—
-title: Comment dormir?
-featuredImage: assets/media/pic01.jpg
-tags:
++++
+title = 'Comment dormir?'
++++
 
-----
-- one
-----
-
-'''
 
 Il y a un lien de causalité bi-directionnel entre la dépression et les troubles du sommeil.
 

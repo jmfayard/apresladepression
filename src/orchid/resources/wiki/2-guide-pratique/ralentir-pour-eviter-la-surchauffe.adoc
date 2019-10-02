@@ -1,13 +1,6 @@
-—
-title: Ralentir pour éviter la surchauffe
-featuredImage: assets/media/pic02.jpg
-tags:
-
-----
-- two
-----
-
-'''
++++
+title = 'Ralentir pour éviter la surchauffe'
++++
 
 En 2010, j'ai été diagnostiqué comme "bi-polaire" plutôt que "dépressif".
 

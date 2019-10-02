@@ -1,18 +1,12 @@
-—
-title: Comment générer un maximum de stress par sa communication?
-featuredImage: assets/media/pic03.jpg
-tags:
-
-----
-- three
-----
-
-'''
++++
+title = 'Comment générer un maximum de stress par sa communication?'
+featuredImage = 'assets/media/pic03.jpg'
++++
 
 Je vous propose une expérience de pensée. Si votre _but_ était de générer par votre communication
 un maximum de stress chez vous comme chez l'autre, comment pourriez-vous vous y prendre?
 
-= Astuces pour engendre un maximum de stress
+== Astuces pour engendre un maximum de stress
 
 Voilà quelques idées efficaces auxquelles vous pourriez avoir recours si votre but était de générer un maximum de stress:
 
