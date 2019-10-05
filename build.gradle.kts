@@ -4,6 +4,7 @@
 plugins {
     id("de.fayard.buildSrcVersions") version "0.6.1"
     id("com.eden.orchidPlugin") version "0.17.5"
+    kotlin("jvm") version "1.3.50"
 }
 
 // Orchid setup
@@ -50,4 +51,12 @@ orchid {
         else -> "http://localhost:8080"
     }
 
+}
+
+/** To update Gradle, run
+ *    ./gradlew refreshVersions && ./gradlew wrapper
+ ***/
+tasks.withType<Wrapper> {
+    distributionType = Wrapper.DistributionType.ALL
+    gradleVersion = findProperty("gradleLatestVersion") as? String ?: gradle.gradleVersion
 }
