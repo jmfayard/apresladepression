@@ -1,18 +1,51 @@
+$font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+$font-family-headers: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+.post .single {
+  max-width: available;
+}
+
+@media all and (max-width: 600px) {
+  html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video
+  {
+    font-size: 18px !important;
+  }
+  table {
+    width: 55vw !important;
+    font-size: 3vw;
+  }
+  ul li {
+    padding-left: 0px;
+  }
+  pre {
+    font-size: large;
+  }
+}
+@media all and (min-width: 1200px) {
+  article
+  {
+    font-size: larger !important;
+  }
+}
+li p {
+  margin-bottom: 0.5em;
+}
+
 body {
-  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  font-family: $font-family;
   font-weight: 400;
   font-size: 21px!important;
   line-height: 1.58;
   letter-spacing: -.003em;
-  margin-top: 29px;
-  width: 90vh;
   margin: 0 auto;
-  padding-left: 5vw!important;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  //width: 90vh;
+  //padding-left: 5vw!important;
 }
 
-h1 {
+h1, div.title h2 a {
   margin-top: 0;
-  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+  font-family: $font-family-headers;
   font-weight: 700;
   font-style: normal;
   font-size: 36px;
@@ -28,7 +61,7 @@ h1 {
 
 h2, h3, h4, h5, h6 {
   margin-top: 39px;
-  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif;
+  font-family: $font-family-headers;
   font-weight: 300;
   font-style: normal;
   margin-left: -1.75px;
@@ -52,13 +85,19 @@ h6 {
   font-size: 20px;
 }
 
-#toc {
-  display: none;
+#sidebar {
+  min-width: 14em !important;
+  width: 14em !important;
 }
+
+li:nth-of-type(3n) {
+  margin-bottom: 1.5em;
+}
+
 
 blockquote {
   margin-top: 55px;
-  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  font-family: $font-family;
   font-weight: 400;
   font-style: italic;
   font-size: 28px;
@@ -78,7 +117,7 @@ blockquote:before {
 .byline {
   font-style: italic;
   font-weight: 700;
-  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  font-family: $font-family;
   font-size: 21px;
   line-height: 1.58;
   letter-spacing: -.003em;
@@ -86,7 +125,7 @@ blockquote:before {
 }
 
 .blurb {
-  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  font-family: $font-family;
   font-weight: 400;
   font-size: 21px;
   line-height: 1.58;
@@ -100,7 +139,7 @@ hr {
   text-align: center;
 }
 hr:before {
-  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  font-family: $font-family;
   font-weight: 400;
   font-style: italic;
   font-size: 28px;
@@ -112,15 +151,6 @@ hr:before {
   position: relative;
   top: -30px;
 }
-a {
-  text-decoration: none;
-  background-image: linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,.6) 50%);
-  background-repeat: repeat-x;
-  background-size: 2px 2px;
-  background-position: 0 22px;
-  color: inherit;
-  background-color: transparent;
-}
 a:hover {
   outline: 0;
   color: inherit;
@@ -128,26 +158,17 @@ a:hover {
 p {
   font-size: inherit;
 }
-
-.title {
+.post > header .title {
+  padding: 1em;
   font-style: normal!important;
-  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Arial,sans-serif!important;
-  font-weight: 300!important;
-  font-size: 13px!important;
+  font-family: $font-family-headers;
   line-height: 1.4!important;
   color: rgba(0,0,0,.6)!important;
   letter-spacing: 0!important;
   text-align: center!important;
   margin-top: 10px!important;
 }
-.title a {
-  text-decoration: none;
-  background-image: linear-gradient(to bottom,rgba(0,0,0,.44) 50%,#fff 50%);
-  background-size: 2px 2px;
-  background-position: 0 14px;
-  background-repeat: repeat-x;
-  font-size: 13px!important;
-}
+
 .title a:hover {
   outline: 0;
   color: inherit;
@@ -165,12 +186,3 @@ video {
   max-width: 85vw;
 }
 
-@media all and (max-width: 600px) {
-table {
-  width: 55vw!important;
-  font-size: 3vw;
-}
-
-pre {
-  font-size: large;
-}

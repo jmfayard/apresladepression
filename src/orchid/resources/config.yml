@@ -45,7 +45,7 @@ theme:
 #        - 'includes/postPreview_list'
   extraCss:
     - 'assets/css/extraCss.scss'
-    - 'assets/css/tufte.scss'
+    - 'assets/css/medium.scss'
     - 'assets/css/pygments.scss'
   extraJs:
     - 'assets/js/extraJs.js'
